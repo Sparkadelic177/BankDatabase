@@ -1,0 +1,27 @@
+## OPERATIONS ##
+    # OCA means open new checkings account
+    # OCCA means open new credit card account
+    # DD means deposit onto the checkings account 
+    # PBCC means buying back the credit card 
+    # PWCC means purchasing with credit cards
+    # CA means close account 
+    # MA means modify account 
+## EXAMPLES ##
+    # OCA FIRSTLAST SS DEPOSIT
+    # OCCA FIRSTLAST SS 
+    # DD SS# AMOUNT 
+    # PBCC SS# AMOUNT 
+    # PWCC SS# AMOUNT
+    # CA SS#
+    # MA SS#
+## Enter data below this line to interact with the Bank databse ##
+###################################################################
+OCA SPARKYEVANGELISTA 2352 10000 
+OCCA SPARKYEVANGELISTA 2352 10000 
+OCCA JackTrabolone 23554 10000 
+DD 2352 4000
+DD 23334 4000
+PWCC 2352 100
+PBCC 2352 50
+CA 2352
+

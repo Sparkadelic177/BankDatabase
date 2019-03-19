@@ -1,0 +1,7 @@
+Checkings sccount opend successful for SPARKYEVANGELISTA
+Credit Card account opend successful for SPARKYEVANGELISTA
+Credit Card account opend successful for JackTrabolone
+deposit successful for SPARKYEVANGELISTA account of 4000 amount
+purchase successful for SPARKYEVANGELISTA account of 100 amount
+payback successful for SPARKYEVANGELISTA account of 50 amount
+The account named SPARKYEVANGELISTA has been removed
