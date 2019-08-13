@@ -1,7 +1,7 @@
 # BankDatabase
 
 ## Summary
-  Design and implement a simple database system for a bank and provided an API that works with the database to create, view, update and delete information. 
+  Design and implement a simple database system for a bank and provided an API that works with the database to create, view, update, and delete information. 
 
 ## The “backend”
   From a broad perspective, the database consist of a list of accounts. Clients and bank workers and/or administrators can then perform transactions and other actions on those accounts.
